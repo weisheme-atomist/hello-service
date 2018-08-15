@@ -5,3 +5,4 @@ This repository is used to experiment with Atomist in combination with weishem.s
 Event 1.
 Event 2.
 Event 3.
+Event 4.
